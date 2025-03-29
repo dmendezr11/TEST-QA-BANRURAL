@@ -23,3 +23,11 @@
 5. **Reinicio del juego**
    - Error: No reiniciaba correctamente el estado del juego
    - Solución: Implementación de función resetGame() completa
+  
+     ## Criterios de Aceptación
+
+✔️ Todos los mensajes deben mostrarse en el color correcto  
+✔️ El juego debe validar estrictamente números enteros 1-100  
+✔️ El contador solo incrementa con entradas válidas  
+✔️ Debe mostrar el número correcto al perder  
+✔️ El reinicio debe generar un nuevo número aleatorio  
